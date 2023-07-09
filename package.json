@@ -155,5 +155,16 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-native-fontawesome": "^0.3.0",
+    "react-native-fontawesome": "^7.0.0",
+    "react-native-gesture-bottom-sheet": "^1.1.0",
+    "react-native-svg": "^13.10.0",
+    "react-native-svg-transformer": "^1.0.0"
   }
 }
